@@ -93,7 +93,7 @@
 				<key>text</key>
 				<string>{query}</string>
 				<key>title</key>
-				<string>💾 Ejected</string>
+				<string>Ejected</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.notification</string>
