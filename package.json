@@ -1,6 +1,6 @@
 {
   "name": "alfred-eject",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Eject the specified disk(s)",
   "license": "MIT",
   "repository": "importre/alfred-eject",
@@ -47,4 +47,3 @@
     }
   }
 }
-
